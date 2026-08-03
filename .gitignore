@@ -1,0 +1,15 @@
+# Cache & virtual environments
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*/*/*/*/__pycache__/
+venv/
+.venv/
+
+# Local paths & jars
+"C:\\Users\\*"
+jars/
+
+# Environment files / Keys
+.env
